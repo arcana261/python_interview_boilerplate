@@ -1,6 +1,6 @@
 sanic==19.9.0
 ujson==1.35
-Jinja2==2.10.3
+Jinja2==2.11.3
 python-dotenv==0.10.3
 pylint==2.4.4
 motor==2.1.0
