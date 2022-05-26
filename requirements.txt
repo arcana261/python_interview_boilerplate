@@ -1,5 +1,5 @@
 sanic==19.9.0
-ujson==1.35
+ujson==5.2.0
 Jinja2==2.10.3
 python-dotenv==0.10.3
 pylint==2.4.4
